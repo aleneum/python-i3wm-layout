@@ -1,0 +1,25 @@
+//# <workspace_name>[:<workspace_nummer>] <-- this line starts a workspace section
+//112 <-- application 1 will ne twice as wide as application 2
+//113 <-- application 1 will also fill the screen vertically
+//- <-- this ends the layout section and is followed by an applications list.
+//application 1
+//application 2
+//application 3
+//application 4 <-- ignored
+// <-- newline ends a workspace section
+# workspace1
+12
+-
+xterm
+xterm
+
+# workspace2
+112
+113
+-
+xterm -e nano
+xterm -e top
+xterm -e ls
+
+
+

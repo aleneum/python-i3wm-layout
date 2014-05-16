@@ -1,0 +1,37 @@
+# main
+12
+13
+-
+firefox
+subl
+i3-sensible-terminal
+
+# communication
+1112
+1113
+-
+thunderbird
+pidgin
+echo
+
+# files
+1122
+3344
+-
+nautilus --no-desktop ~
+nautilus --no-desktop ~/Documents
+nautilus --no-desktop ~/Dropbox
+nautilus --no-desktop ~/Downloads
+
+# terminalterror
+1234
+5678
+-
+i3-sensible-terminal
+i3-sensible-terminal
+i3-sensible-terminal
+i3-sensible-terminal
+i3-sensible-terminal
+i3-sensible-terminal
+i3-sensible-terminal
+i3-sensible-terminal
